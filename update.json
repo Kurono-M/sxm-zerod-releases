@@ -1,0 +1,12 @@
+{
+  "product": "SXM ZeroD",
+  "channel": "preview",
+  "versionName": "0.6.6",
+  "versionCode": 14,
+  "applicationId": "uy.mdesign.inclinometro.preview",
+  "apk": "SieraSXMZeroD-0.6.6.apk",
+  "url": "https://github.com/Kurono-M/sxm-zerod-releases/releases/download/v0.6.6/SieraSXMZeroD-0.6.6.apk",
+  "sha256": "946065e63c37a8b696a5f88e9428512b18194fe8f7f4d366b95bf7b4563b2028",
+  "size": 3960748,
+  "signingCertificateSha256": "cf373aea9087f1ebf4ff97cd9496f12daebb58a0d12a0aae914b9eb1a16ebb54"
+}
